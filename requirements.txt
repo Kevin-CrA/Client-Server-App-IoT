@@ -1,0 +1,4 @@
+flask
+flask-restplus
+pyserial
+wmi
